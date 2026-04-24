@@ -1,8 +1,9 @@
 class Etop < Formula
   desc "Local-only macOS TUI process viewer focused on power usage and energy impact"
   homepage "https://github.com/Mattslayga/etop"
-  url "https://github.com/Mattslayga/etop/releases/download/v0.1.5/etop-v0.1.5-macos-aarch64.tar.gz"
-  sha256 "a30e9b39192e137c1d2bb75c0ff2343b56cc1d57cfe1a71f6353f6deccafb179"
+  url "https://github.com/Mattslayga/etop/releases/download/v0.1.6/etop-v0.1.6-macos-arm64.tar.gz"
+  version "0.1.6"
+  sha256 "d56476f733e7f69f581c33aadce8b60d62487127703e8a7a42ac83c72225b5c8"
   license "MIT"
 
   on_macos do
